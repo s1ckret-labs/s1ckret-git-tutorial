@@ -39,12 +39,14 @@
     - git remote add
     - git remote rename
     - git remote remove
-- Part 5. Rebasing
+- Part 5. Managing project
+  - A. Common git workflow
+  - B. Commands
+    - git fetch
+    - git pull
+    - git submodule
+  - C. Practice
+- Part 6. Rebasing
   - A. Problems with merge
   - B. Commands
     - git rebase (-i)
-- Part 6. Managing project
-  - A. Common git workflow
-  - B. Commands
-    - git submodule
-  - C. Practice
