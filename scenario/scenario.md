@@ -4,17 +4,7 @@
   - B. Common gist of git
   - C. Installation
   - D. Configuration
-- Part 1. Work in repository
-  - A. Gist of repository
-  - B. Common commands
-    - git clone
-    - git init
-  - Adding remote repo
-    - git remote (-v)
-    - git remote add
-    - git remote rename
-    - git remote remove
-- Part 2. Commits
+- Part 1. Commits
   - A. File status lifecycle
   - B. Repository workflow
   - C. Commands
@@ -27,19 +17,28 @@
   - D. Helpful files
     - .gitkeep
     - .gitignore
-- Part 3. Branching
+- Part 2. Branching
   - A. Gist of brances
   - B. Commands
-    - git branch
     - git checkout
+    - git branch
     - git switch (?)
     - git stash
-- Part 4. Merging
+- Part 3. Merging
   - A. Gist of merging
   - B. Commands
     - git merge
     - git mergetool (defatult, meld)
   - C. Practice
+ - Part 4. Work in repository
+  - A. Gist of repository
+  - B. Common commands
+    - git clone
+  - Adding remote repo
+    - git remote (-v)
+    - git remote add
+    - git remote rename
+    - git remote remove
 - Part 5. Rebasing
   - A. Problems with merge
   - B. Commands
