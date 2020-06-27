@@ -24,7 +24,6 @@
     - git diff
     - git commit (-s -a --amend)
     - git log (--oneline --graph --all)
-    - git tag
   - D. Helpful files
     - .gitkeep
     - .gitignore
