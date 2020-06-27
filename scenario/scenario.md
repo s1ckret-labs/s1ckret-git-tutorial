@@ -15,10 +15,9 @@
     - git remote rename
     - git remote remove
 - Part 2. Commits
-  - A. Gist of commit
-  - B. File status lifecycle
-  - C. Repository workflow
-  - D. Commands
+  - A. File status lifecycle
+  - B. Repository workflow
+  - C. Commands
     - git status
     - git add
     - git rm
@@ -26,7 +25,7 @@
     - git commit (-s -a --amend)
     - git log (--oneline --graph --all)
     - git tag
-  - E. Helpful files
+  - D. Helpful files
     - .gitkeep
     - .gitignore
 - Part 3. Branching
