@@ -34,7 +34,6 @@
   - A. Gist of repository
   - B. Common commands
     - git clone
-  - Adding remote repo
     - git remote (-v)
     - git remote add
     - git remote rename
