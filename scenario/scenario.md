@@ -19,12 +19,11 @@
   - B. File status lifecycle
   - C. Repository workflow
   - D. Commands
-    - git add (* and .)
+    - git status
+    - git add
     - git rm
-    - git restore
     - git diff
     - git commit (-s -a --amend)
-    - git status (-u)
     - git log (--oneline --graph --all)
     - git tag
   - E. Helpful files
