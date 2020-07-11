@@ -6,8 +6,8 @@
   - D. Configuration
 - Part 1. Commits
   - A. Creating a local repository
-  - B. File status lifecycle
-  - C. Repository workflow
+  - B. Repository workflow
+  - C. File status lifecycle
   - D. Commands
     - git status
     - git add
