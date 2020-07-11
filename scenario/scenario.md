@@ -5,16 +5,17 @@
   - C. Installation
   - D. Configuration
 - Part 1. Commits
-  - A. File status lifecycle
-  - B. Repository workflow
-  - C. Commands
+  - A. Creating a local repository
+  - B. File status lifecycle
+  - C. Repository workflow
+  - D. Commands
     - git status
     - git add
     - git rm
     - git diff
     - git commit (-s -a --amend)
     - git log (--oneline --graph --all)
-  - D. Helpful files
+  - E. Helpful files
     - .gitkeep
     - .gitignore
 - Part 2. Branching
