@@ -12,11 +12,11 @@
     - git status
     - git add
     - git diff
-    - git restore / git checkout --
     - git commit (-s -a --amend)
-    - git reset
     - git rm (--cached)
     - git log (--oneline --graph --all)
+    - git restore / git checkout --
+    - git reset
   - E. Helpful files
     - .gitkeep
     - .gitignore
