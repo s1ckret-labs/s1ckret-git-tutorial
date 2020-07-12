@@ -11,9 +11,11 @@
   - D. Commands
     - git status
     - git add
-    - git rm
     - git diff
+    - git restore / git checkout --
     - git commit (-s -a --amend)
+    - git reset
+    - git rm (--cached)
     - git log (--oneline --graph --all)
   - E. Helpful files
     - .gitkeep
