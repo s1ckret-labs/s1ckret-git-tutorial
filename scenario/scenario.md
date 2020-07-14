@@ -3,6 +3,13 @@
   - A. Course overview
   - B. Common gist of git
   - C. Terminology
+    - git
+    - GitHub
+    - Repository
+    - Commit
+    - Branch
+    - HEAD
+    - Merge
   - D. Installation
   - E. Configuration
 - Part 1. Commits

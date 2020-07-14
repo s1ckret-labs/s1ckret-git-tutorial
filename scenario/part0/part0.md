@@ -27,6 +27,19 @@
 
 ## Terminology
 
+### git
+
+### GitHub
+
+### Repository
+
+### Commit
+
+### Branch
+
+### HEAD
+
+### Merge
 
 ## Installation
 
