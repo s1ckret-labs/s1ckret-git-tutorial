@@ -2,8 +2,9 @@
 - Part 0. Preparation
   - A. Course overview
   - B. Common gist of git
-  - C. Installation
-  - D. Configuration
+  - C. Terminology
+  - D. Installation
+  - E. Configuration
 - Part 1. Commits
   - A. Creating a local repository
   - B. Repository workflow

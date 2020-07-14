@@ -25,6 +25,9 @@
 
 ![Stream of snapshots image](img/2.png "Stream of snapshots")
 
+## Terminology
+
+
 ## Installation
 
 ### Windows
