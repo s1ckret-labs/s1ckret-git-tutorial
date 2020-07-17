@@ -39,9 +39,9 @@
 - Part 3. Branching
   - A. Gist of brances
   - B. Commands
-    - git checkout
-    - git branch
-    - git switch (?)
+    - git branch (-l, -v, -a, -d, -m, -c)
+    - git switch (-c)
+    - git checkout (-b) 
 - Part 4. Merging
   - A. Gist of merging
   - B. Commands
