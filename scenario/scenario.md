@@ -28,20 +28,27 @@
   - E. Helpful files
     - .gitkeep
     - .gitignore
-- Part 2. Branching
+- Part 2. Stash
+  - A. Gist of stash
+  - B. Commands
+    - git stash
+    - git stash list
+    - git stash show
+    - git stash (pop | apply)
+    - git stash clear
+- Part 3. Branching
   - A. Gist of brances
   - B. Commands
     - git checkout
     - git branch
     - git switch (?)
-    - git stash
-- Part 3. Merging
+- Part 4. Merging
   - A. Gist of merging
   - B. Commands
     - git merge
     - git mergetool (defatult, meld)
   - C. Practice
- - Part 4. Work in repository
+- Part 5. Work in repository
   - A. Gist of repository
   - B. Common commands
     - git clone
@@ -49,14 +56,14 @@
     - git remote add
     - git remote rename
     - git remote remove
-- Part 5. Managing project
+- Part 6. Managing project
   - A. Common git workflow
   - B. Commands
     - git fetch
     - git pull
     - git submodule
   - C. Practice
-- Part 6. Rebasing
+- Part 7. Rebasing
   - A. Problems with merge
   - B. Commands
     - git rebase (-i)
