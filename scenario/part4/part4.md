@@ -258,3 +258,6 @@ I think python and C++ is cool!
 
 ### TODO Describe merge process in vimdiff
 ### TODO Describe merge process in meld
+
+# The end of part 4!
+Надеюсь этот материал стал Вам полезен! Желаю Вам всего хорошего.
