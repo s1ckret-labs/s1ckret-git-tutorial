@@ -1,4 +1,4 @@
-# Part 3. Branching
+# Part 2. Branching
 
 ## A. Gist of branching
  Добро пожаловать на курс. В этой главе мы рассмотрим работу с ветками: создание, удаление, переключение. Также рассмотрим перемещение указателя HEAD, откат к прежним коммитам.
@@ -105,5 +105,5 @@ HEAD переместилась на коммит faf1bd3.
 | __git branch *\<branch\>* *\<newbranch\>*__      | -c             | --copy        | Копирует ветку \<branch\> в \<newbranch\>           |
 | __git branch *\<oldbranch\>* *\<newbranch\>*__   | -m             | --move        | Переименовывает ветку \<oldbranch\> в \<newbranch\> |
     
-# The end of part 3!
+# The end of part 2: 
 Надеюсь этот материал стал Вам полезен! Желаю Вам всего хорошего.

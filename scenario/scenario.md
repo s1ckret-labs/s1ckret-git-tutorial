@@ -28,7 +28,13 @@
   - E. Helpful files
     - .gitkeep
     - .gitignore
-- Part 2. Stash
+- Part 2. Branching
+  - A. Gist of brances
+  - B. Commands
+    - git branch (-l, -v, -a, -d, -m, -c)
+    - git switch (-c)
+    - git checkout (-b) 
+- Part 3. Stash
   - A. Gist of stash
   - B. Commands
     - git stash
@@ -36,12 +42,6 @@
     - git stash show
     - git stash (pop | apply)
     - git stash clear
-- Part 3. Branching
-  - A. Gist of brances
-  - B. Commands
-    - git branch (-l, -v, -a, -d, -m, -c)
-    - git switch (-c)
-    - git checkout (-b) 
 - Part 4. Merging
   - A. Gist of merging
   - B. Commands
