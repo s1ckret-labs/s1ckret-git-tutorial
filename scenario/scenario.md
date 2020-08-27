@@ -60,6 +60,7 @@
     - ?todo git remote prune (-n)
     - git fetch
     - git pull
+    - git push
   - C. Practice
 - Part 6. Rebasing
   - A. Problems with merge
