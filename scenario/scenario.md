@@ -48,22 +48,31 @@
     - git merge
     - git mergetool (defatult, meld)
   - C. Practice
-- Part 5. Work in repository
-  - A. Gist of repository
-  - B. Common commands
+- Part 5. Going online
+  - A. Gist of remote repositories
+  - B. Commands
     - git clone
     - git remote (-v)
-    - git remote add
+    - git remote add (-f)
     - git remote rename
     - git remote remove
-- Part 6. Managing project
-  - A. Common git workflow
-  - B. Commands
+    - ?todo git remote set-url (--add) (--delete)
+    - ?todo git remote prune (-n)
     - git fetch
     - git pull
-    - git submodule
   - C. Practice
-- Part 7. Rebasing
+- Part 6. Rebasing
   - A. Problems with merge
   - B. Commands
     - git rebase (-i)
+- Part 7. Managing project
+  - A. Common git workflow
+  - B. Commands
+    - git submodule
+  - C. GitHub.
+    - Pull requests
+    - Branch protection
+    - Commit name conventions
+    - Issue tracker
+    - Pull request template
+    - Issue template
