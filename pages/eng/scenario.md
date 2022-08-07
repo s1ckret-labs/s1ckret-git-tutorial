@@ -1,0 +1,120 @@
+# Git Scenario
+- Section 0. Preparation
+	- I. Course overview
+	- II. What is Git? Why to use Git?
+		- Software version control concept
+	- III. What is GitHub? Why to use GitHub?
+		- Cloud (someone's computer) concept
+	- IV. How to install Git? Follow along!
+	- V. How to configure Git? Follow along!
+	- VI. How to download a repository from GitHub? Follow along!
+- Section 1. Navigation
+	- I. Core Git concepts
+		- Commit concept
+		- Branch concept
+		- HEAD concept
+		- Repository concept
+	- II. How to navigate in Git CLI? Follow along!
+		- git status
+		- git log
+		- git log --oneline --graph --all
+		- git switch
+		- git checkout
+		- git branch -v -a
+		- git remote -v -r -a
+- Section 2. Repositories
+	- I. Repositories concepts
+		- Local repository concept
+		- Remote repository concept
+	- II. How to create local repository? Follow along!
+		- git init
+		- git clone
+	- III. How to add remote repository? Follow along!
+		- git remote
+		- git remote add
+		- git remote delete
+		- git remote rename
+	- IV. How to sync with remote repository? Follow along!
+		- git fetch
+		- git pull
+		- git push
+- Section 3. Commits
+	- I. Git stages explained!
+		- Working directory concept
+		- Index concept
+		- Commit history concept
+		- Stash concept
+	- II. FIle lifecycle in Git
+	- III. How to create commit in Git? Follow along!
+		- git status
+		- git add
+		- git diff
+		- git rm
+		- git restore
+		- git add -p
+		- git commit (-s -a --amend)
+	- How to copy commit in Git? Follow along!
+		- git cherry-pick
+	- IV. How to delete(revert) commit in Git? Follow along!
+		- git reset (--soft --hard)
+		- git revert
+	- V. How to use stash in Git? Follow along!
+		- git stash
+	    - git stash list
+	    - git stash show
+	    - git stash (pop | apply)
+	    - git stash clear
+- Section 4. Branches
+	- I. Git branches explained!
+		- Branch concept
+	- II. How to create local branch in Git? Follow along!
+		- git branch (-l, -v, -a, -d, -m, -c)
+		- git switch -c
+		- git checkout -b
+	- III. How to create remote branch in Git? Follow along!
+		- via GitHub
+		- git push
+- Section 5. Merging branches
+	- I. Git branch merging conepts
+		- Merge concept
+		- Merge conflict concept
+		- Merge tool concpet
+	- II. How to merge branches in Git? Follow along!
+		- git merge
+	- III. How to resolve merge conflicts in Git using Meld? Follow along!
+		- git mergetool
+		- git merge
+		- Meld
+	- IV. How to resolve merge conflicts in Git using default mergetool? Follow along!
+		- git mergetool
+		- git merge
+		- mergetool
+	- V. How to resolve merge conflicts in Git using Visual Studio Code? Follow along!
+		- git mergetool
+		- git merge
+		- VSC
+- Section 6. Rebasing (Shufling commits around)
+	- I. git rebase vs git merge. Comparing use cases!
+		- Move branches
+		- Move separate commits
+		- Copy branches
+	- II. How to do rebase in Git? Follow along!
+		- git rebase
+		- git rebase --onto
+	- III. How to do interactive rebase in Git? Follow along!
+		- git rebase -i
+- Section 7. How I use Git and GitHub (TBD)
+	- Aliases
+	- fetch not pull
+	- always use branch
+	- Branching best practicies
+	- Commit naming conventions
+	- Commit best practicies
+	- Review
+	- GitHub smth
+	- submodules
+	- finding lost commits
+	- git filter-branch (python script)
+	- git gc
+	- tbd
+	- tbd
